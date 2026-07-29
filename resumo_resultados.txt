@@ -1,0 +1,30 @@
+RESUMO DA EXECUCAO DE TESTE
+Observacao: o tempo depende do computador usado.
+Quanto menor o valor (makespan), melhor a qualidade da solucao.
+
+Heuristica: monotona
+Tempo medio: 0.016042 segundos
+Iteracoes medias: 1724.96
+Makespan medio: 118.97
+
+Heuristica: tempera_simulada
+Tempo medio: 0.000971 segundos
+Iteracoes medias: 3230.60
+Makespan medio: 109.09
+
+MEDIA POR PARAMETRO
+
+monotona | parametro 0.10 | tempo 0.048961 | iteracoes 1729.17 | makespan 106.52
+monotona | parametro 0.20 | tempo 0.029213 | iteracoes 1623.53 | makespan 108.23
+monotona | parametro 0.30 | tempo 0.021425 | iteracoes 1633.92 | makespan 108.97
+monotona | parametro 0.40 | tempo 0.015807 | iteracoes 1623.88 | makespan 111.95
+monotona | parametro 0.50 | tempo 0.011551 | iteracoes 1794.30 | makespan 114.63
+monotona | parametro 0.60 | tempo 0.008316 | iteracoes 1798.73 | makespan 119.68
+monotona | parametro 0.70 | tempo 0.004817 | iteracoes 1741.20 | makespan 125.07
+monotona | parametro 0.80 | tempo 0.002928 | iteracoes 1734.65 | makespan 133.63
+monotona | parametro 0.90 | tempo 0.001357 | iteracoes 1845.27 | makespan 142.05
+tempera_simulada | parametro 0.80 | tempo 0.000955 | iteracoes 3180.13 | makespan 109.43
+tempera_simulada | parametro 0.85 | tempo 0.000923 | iteracoes 3076.37 | makespan 108.47
+tempera_simulada | parametro 0.90 | tempo 0.001009 | iteracoes 3421.17 | makespan 108.48
+tempera_simulada | parametro 0.95 | tempo 0.000945 | iteracoes 3131.93 | makespan 109.90
+tempera_simulada | parametro 0.99 | tempo 0.001024 | iteracoes 3343.42 | makespan 109.15
