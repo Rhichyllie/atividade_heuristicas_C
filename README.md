@@ -1,50 +1,25 @@
-# \# Atividade de Busca Heurística
+﻿# Atividade de Busca Heurística
 
-# 
+![Linguagem](https://img.shields.io/badge/Linguagem-C-blue)
+![Universidade](https://img.shields.io/badge/Universidade-UNIVALI-red)
+![Disciplina](https://img.shields.io/badge/Disciplina-Teoria%20da%20Computa%C3%A7%C3%A3o-lightgrey)
+![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 
-# !\[Linguagem](https://img.shields.io/badge/Linguagem-C-blue)
+Atividade desenvolvida na disciplina de **Teoria da Computação** da **Universidade do Vale do Itajaí - UNIVALI**.
 
-# !\[Universidade](https://img.shields.io/badge/Universidade-UNIVALI-red)
+O trabalho utiliza algoritmos de busca heurística para distribuir tarefas entre máquinas, buscando minimizar o **makespan**, que representa o maior tempo de processamento entre as máquinas.
 
-# !\[Disciplina](https://img.shields.io/badge/Disciplina-Teoria%20da%20Computa%C3%A7%C3%A3o-lightgrey)
+## Heurísticas
 
-# !\[Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
+- Busca Local Monótona Randomizada
+- Têmpera Simulada
 
-# 
+## Professor
 
-# Atividade desenvolvida na disciplina de \*\*Teoria da Computação\*\* da \*\*Universidade do Vale do Itajaí - UNIVALI\*\*.
+**Alex Rese**
 
-# 
+## Alunos
 
-# O trabalho utiliza algoritmos de busca heurística para distribuir tarefas entre máquinas, buscando minimizar o \*\*makespan\*\*, que representa o maior tempo de processamento entre as máquinas.
-
-# 
-
-# \## Heurísticas
-
-# 
-
-# \- Busca Local Monótona Randomizada
-
-# \- Têmpera Simulada
-
-# 
-
-# \## Professor
-
-# 
-
-# \*\*Alex Rese\*\*
-
-# 
-
-# \## Alunos
-
-# 
-
-# \- Rhichyllie Stefen
-
-# \- Gabriel Silveira
-
-# \- Lucas Borba
-
+- Rhichyllie Stefen
+- Gabriel Silveira
+- Lucas Borba
