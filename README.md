@@ -1,4 +1,4 @@
-﻿# Atividade de Busca Heurística
+# Atividade de Busca Heurística
 
 ![Linguagem](https://img.shields.io/badge/Linguagem-C-blue)
 ![Universidade](https://img.shields.io/badge/Universidade-UNIVALI-red)
@@ -13,6 +13,38 @@ O trabalho utiliza algoritmos de busca heurística para distribuir tarefas entre
 
 - Busca Local Monótona Randomizada
 - Têmpera Simulada
+
+## Como executar
+
+### Busca Local Monótona Randomizada
+
+Compile:
+
+```bash
+gcc busca_monotona.c -o busca_monotona
+```
+
+Execute no Windows:
+
+```bash
+busca_monotona.exe
+```
+
+### Têmpera Simulada
+
+Compile:
+
+```bash
+gcc tempera_simulada.c -o tempera_simulada -lm
+```
+
+Execute no Windows:
+
+```bash
+tempera_simulada.exe
+```
+
+Os resultados das execuções são salvos no arquivo `resultados.txt`.
 
 ## Professor
 
